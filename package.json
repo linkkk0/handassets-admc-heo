@@ -1,22 +1,22 @@
 {
   "name": "azassets",
   "version": "1.0.0",
-  "description": "我的静态资源库",
+  "description": "handsome8.4.1静态资源库",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Arcitcgn/azassets.git"
+    "url": "git+https://github.com/linkkk0/handassets-admc-heo.git"
   },
   "keywords": [
     "assets"
   ],
-  "author": "Arcitcgn",
+  "author": "linkkk0",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Arcitcgn/azassets/issues"
+    "url": "https://github.com/linkkk0/handassets-admc-heo/issues"
   },
-  "homepage": "https://github.com/Arcitcgn/azassets#readme"
+  "homepage": "https://github.com/linkkk0/handassets-admc-heo#readme"
 }
